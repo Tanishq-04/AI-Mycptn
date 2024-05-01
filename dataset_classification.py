@@ -31,7 +31,7 @@ pd.set_option("float_format", "{:.3f}".format)
 # In[31]:
 
 
-df = pd.read_csv('C:/Users/Sanjay Bharadwaj U/Desktop/AIML/Mini project - income classification/income_evaluation/income_evaluation.csv')
+df = pd.read_csv('C:/Users/Lenovo U/Desktop/AIML/Mini project - income classification/income_evaluation/income_evaluation.csv')
 df.head()
 
 
